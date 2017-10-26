@@ -1,6 +1,6 @@
 //
-//  LearnCBLUITests.swift
-//  LearnCBLUITests
+//  learnCBLUITests.swift
+//  learnCBLUITests
 //
 //  Created by Roberto Pelonara on 26/10/2017.
 //  Copyright © 2017 Roberto Pelonara. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class LearnCBLUITests: XCTestCase {
+class learnCBLUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

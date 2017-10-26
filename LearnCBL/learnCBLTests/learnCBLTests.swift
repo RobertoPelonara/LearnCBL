@@ -1,15 +1,15 @@
 //
-//  LearnCBLTests.swift
-//  LearnCBLTests
+//  learnCBLTests.swift
+//  learnCBLTests
 //
 //  Created by Roberto Pelonara on 26/10/2017.
 //  Copyright © 2017 Roberto Pelonara. All rights reserved.
 //
 
 import XCTest
-@testable import LearnCBL
+@testable import learnCBL
 
-class LearnCBLTests: XCTestCase {
+class learnCBLTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
